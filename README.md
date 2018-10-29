@@ -1,3 +1,4 @@
+[![](https://www.jitpack.io/v/tinybright/NumberCodeView.svg)](https://www.jitpack.io/#tinybright/NumberCodeView)
 # NumberCodeView
 A number input view which like input password in alipay or wechat pay.
 
@@ -28,7 +29,7 @@ Call Bottom sheet style NumberCodeView with a single line code. Like this:
 
 ```
 BottomSheetNumberCodeViewActivity.show(this, mIsPassword);
-```
+```  
 
 ### `isPassword` Attribute
 
